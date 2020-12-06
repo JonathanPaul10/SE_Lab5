@@ -1,0 +1,3 @@
+C:/Users/13321/Desktop/大三第一学期/计算机图形学/实验三/实验3.4_留空代码/build/CMakeFiles/main.dir
+C:/Users/13321/Desktop/大三第一学期/计算机图形学/实验三/实验3.4_留空代码/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/13321/Desktop/大三第一学期/计算机图形学/实验三/实验3.4_留空代码/build/CMakeFiles/ZERO_CHECK.dir

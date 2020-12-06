@@ -1,0 +1,10 @@
+^C:\USERS\13321\DESKTOP\大三第一学期\计算机图形学\实验三\实验3.4_留空代码\CMAKELISTS.TXT
+setlocal
+D:\cmake\bin\cmake.exe -SC:/Users/13321/Desktop/大三第一学期/计算机图形学/实验三/实验3.4_留空代码 -BC:/Users/13321/Desktop/大三第一学期/计算机图形学/实验三/实验3.4_留空代码/build --check-stamp-file C:/Users/13321/Desktop/大三第一学期/计算机图形学/实验三/实验3.4_留空代码/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

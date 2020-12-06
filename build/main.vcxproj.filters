@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\13321\Desktop\大三第一学期\计算机图形学\实验三\实验3.4_留空代码\Camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\13321\Desktop\大三第一学期\计算机图形学\实验三\实验3.4_留空代码\InitShader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\13321\Desktop\大三第一学期\计算机图形学\实验三\实验3.4_留空代码\TriMesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\13321\Desktop\大三第一学期\计算机图形学\实验三\实验3.4_留空代码\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\13321\Desktop\大三第一学期\计算机图形学\实验三\实验3.4_留空代码\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{CEA213A8-2C64-30EF-9A72-18C7493112F5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
